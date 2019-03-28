@@ -1,0 +1,13 @@
+cpqfca.cfg
+cpqhost.cfg
+cpqida.cfg
+cpqide.cfg
+cpqnic.cfg
+cpqrack.cfg
+cpqscsi.cfg
+cpqservice.cfg
+cpqstdeq.cfg
+HPVCMODULE-MIB.cfg
+msa2000traps.cfg
+vc-domain-mib.cfg
+vc-qos-mib.cfg
